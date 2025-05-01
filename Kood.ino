@@ -22,3 +22,5 @@ void loop() {
 }
 
 //Abi sain: https://www.tinkercad.com/projects/Light-Sensor-Photoresistor-Arduino-Tinkercad
+
+// Minu töö: https://www.tinkercad.com/things/j89gpV4nl8o-e-oppe-too/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard
